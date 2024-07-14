@@ -1,0 +1,31 @@
+source,destination,weight
+New York,Chicago,800
+New York,Dallas,1548
+New York,Atlanta,864
+Chicago,Los Angeles,2015
+Chicago,Dallas,925
+Chicago,Houston,1086
+Chicago,Denver,1003
+Houston,Los Angeles,1547
+Houston,Phoenix,1175
+Houston,Atlanta,792
+Houston,Dallas,239
+Phoenix,Los Angeles,373
+Phoenix,Dallas,1065
+Phoenix,Denver,823
+Dallas,Houston,239
+Dallas,Phoenix,1065
+Dallas,Atlanta,780
+Dallas,Denver,798
+Denver,Los Angeles,1015
+Denver,Phoenix,823
+Denver,Dallas,798
+Denver,Chicago,1003
+Atlanta,New York,864
+Atlanta,Houston,792
+Atlanta,Dallas,780
+San Francisco,Los Angeles,381
+San Francisco,Phoenix,751
+San Francisco,Denver,1267
+San Francisco,Chicago,2135
+San Francisco,New York,2904
